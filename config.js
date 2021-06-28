@@ -1,10 +1,10 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://cmmon.vercel.app',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Blog by Aniket Kunar',
+  subtitle: 'Web-Developer.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,18 +25,18 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Aniket Kumar',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Welcome to my Blog. If you have any suggestion or feedback. Do write to me. If you want me to write on some specific, Let me Know. Enjoy your stay',
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      email: 'aniketsinha101@gmail.com',
+      facebook: '#Inactive',
+      telegram: 'https://github.com/C-mmon',
+      twitter: 'https://twitter.com/_Cmmon_',
+      github: 'https://github.com/C-mmon',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
+      linkedin: 'https://www.linkedin.com/in/cmmon/',
       instagram: '#',
       line: '',
       gitlab: '',
@@ -44,7 +44,7 @@ module.exports = {
       codepen: '',
       youtube: '',
       soundcloud: '',
-      medium: '',
+      medium: 'cmmon.medium.com',
     }
   }
 };
