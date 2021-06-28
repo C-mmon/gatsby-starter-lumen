@@ -18,10 +18,6 @@ module.exports = {
     {
       label: 'About me',
       path: '/pages/about'
-    },
-    {
-      label: 'Contact me',
-      path: '/pages/contacts'
     }
   ],
   author: {
@@ -30,14 +26,14 @@ module.exports = {
     bio: 'Welcome to my Blog. If you have any suggestion or feedback. Do write to me. If you want me to write on some specific, Let me Know. Enjoy your stay',
     contacts: {
       email: 'aniketsinha101@gmail.com',
-      facebook: '#Inactive',
+      facebook: '',
       telegram: 'https://github.com/C-mmon',
       twitter: 'https://twitter.com/_Cmmon_',
       github: 'https://github.com/C-mmon',
       rss: '',
       vkontakte: '',
       linkedin: 'https://www.linkedin.com/in/cmmon/',
-      instagram: '#',
+      instagram: '',
       line: '',
       gitlab: '',
       weibo: '',
